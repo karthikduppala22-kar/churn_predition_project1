@@ -78,4 +78,3 @@ With this knowledge, you can move on to more advanced projects like **Decision T
 
 ---
 
-Would you like me to make this README in **Markdown format** (with emojis, headings, and bullet points) ready for direct upload to GitHub?
